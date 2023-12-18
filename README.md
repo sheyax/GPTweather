@@ -1,0 +1,2 @@
+# GPTweather
+GPTpowered weather app
